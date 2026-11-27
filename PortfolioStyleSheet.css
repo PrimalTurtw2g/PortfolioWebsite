@@ -10,3 +10,9 @@
 	font-family: "Panton-Bold";
 	src: url("Fonts/Panton-Trial-Bold.ttf") format("ttf");
 }
+
+.headerClass {
+	display: block;
+	margin: auto;
+	font-size: 100px;
+}
