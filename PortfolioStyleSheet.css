@@ -13,7 +13,8 @@
 
 .headerClass {
 	display: block;
-	margin: auto;
+	margin-left: 50%;
+	width: 100%;
 	font-size: 100px;
 	background-color: #f8b5ff;
 	position: fixed;
