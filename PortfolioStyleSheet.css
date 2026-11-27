@@ -15,4 +15,7 @@
 	display: block;
 	margin: auto;
 	font-size: 100px;
+	background-color: #f8b5ff;
+	position: fixed;
+	z-index: 5;
 }
