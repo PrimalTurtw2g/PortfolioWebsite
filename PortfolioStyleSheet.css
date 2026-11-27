@@ -9,6 +9,7 @@
 @font-face {
 	font-family: "Panton-Bold";
 	src: url("Fonts/Panton-Trial-Bold.ttf") format("ttf");
+	font-weight: 100;
 }
 
 .headerClass {
@@ -19,4 +20,5 @@
 	background-color: #f8b5ff;
 	position: fixed;
 	z-index: 5;
+	font-weight: 100;
 }
