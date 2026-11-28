@@ -15,15 +15,17 @@
 
 .headerClass {
 	display: block;
-	margin-left: 50%;
+	margin-left: 0%;
 	width: 100%;
-	font-size: 100px;
+	font-size: 50px;
 	background-color: #f8b5ff;
 	position: fixed;
+	left: 0px;
+	top: 0px;
 	z-index: 5;
 	font-weight: 100;
 }
 
 .buffer {
-	margin-top: 200px;
+	margin-top: 800px;
 }
