@@ -14,7 +14,8 @@
 }
 
 .headerClass {
-	display: block;
+	display: flex;
+	align-content: space-between;
 	margin-left: 0%;
 	width: 100%;
 	font-size: 50px;
@@ -37,5 +38,5 @@
 	padding-left: 200px;
 	padding-right: 200px;
 	padding-bottom: 200px;
-	background-color: #f8b5ff;
+	background-color: #75cdff;
 }
