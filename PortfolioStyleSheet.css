@@ -9,7 +9,7 @@
 @font-face {
 	font-family: Panton-Bold;
 	src:
-		url("Fonts/Panton-Trial-Bold.ttf") format("ttf");
+		url("Fonts/Panton-Trial-Bold.woff2") format("woff2");
 	font-weight: 100;
 }
 
