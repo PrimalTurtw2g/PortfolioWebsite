@@ -29,3 +29,10 @@
 .buffer {
 	margin-top: 800px;
 }
+
+.square {
+	display: block;
+	margin: auto;
+	padding: 200px;
+	background-color: #f8b5ff;
+}
