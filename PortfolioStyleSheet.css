@@ -3,11 +3,11 @@
 }
 
 #font {
-	font-family: "Panton-Bold";
+	font-family: Panton-Bold;
 }
 
 @font-face {
-	font-family: "Panton-Bold";
+	font-family: Panton-Bold;
 	src: url("Fonts/Panton-Trial-Bold.ttf") format("ttf");
 	font-weight: 100;
 }
